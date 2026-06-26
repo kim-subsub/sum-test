@@ -1,4 +1,5 @@
 #Makefile
+
 all: sum-test
 
 sum-test: main.o sum.o
